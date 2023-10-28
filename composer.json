@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "ext-json": "*",
+    "ext-pdo": "*",
+    "zircote/swagger-php": "^4.7",
+    "doctrine/annotations": "^2.0"
+  }
+}
