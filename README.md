@@ -44,7 +44,7 @@ Port: 3000
 - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
 - [PHP Snippets](https://marketplace.visualstudio.com/items?itemName=tal7aouy.php)
 
-![Schemas com exemplos e descrição](/images/extensoes.png)
+![Schemas com exemplos e descrição](/images/extensoes.PNG)
 
 </details>
 
@@ -488,5 +488,5 @@ Server:    http://localhost:3000/documentation/index.php
 <summary>Swagger WebServer - Exemplo</summary>
 
 
-![Swagger WebServer ](images/SwaggerUi.png)
+![Swagger WebServer ](images/SwaggerUi.PNG)
 </details>
