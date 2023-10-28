@@ -7,9 +7,9 @@ Este é um projeto que explora como integrar o Swagger a APIs em PHP.
 
 <br>
 API -(Interface de Programação de Aplicativos): É um conjunto de regras modelo REST utiliza os métodos HTTP (GET, POST, PUT, DELETE, etc.) que permite que diferentes softwares se comuniquem, frequentemente usando o formato JSON para transmitir informações.
-
+<br>
 PHP (Hypertext Preprocessor): Uma linguagem de programação de código aberto usada para o desenvolvimento web, ideal para criar páginas da web dinâmicas e interagir com APIs.
-
+<br>
 Swagger: Uma estrutura de código aberto que simplifica o desenvolvimento, documentação e teste de APIs, fornecendo uma interface amigável (Swagger UI) e gerando automaticamente documentação detalhada.
 
 </details>
