@@ -44,7 +44,7 @@ Port: 3000
 - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
 - [PHP Snippets](https://marketplace.visualstudio.com/items?itemName=tal7aouy.php)
 
-![Schemas com exemplos e descrição](api/images/extensoes.png)
+![Schemas com exemplos e descrição](/images/extensoes.png)
 
 </details>
 
